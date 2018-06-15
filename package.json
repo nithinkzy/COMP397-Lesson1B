@@ -1,0 +1,19 @@
+{
+  "name": "comp397-lesson1b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithinkzy/COMP397-Lesson1B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithinkzy/COMP397-Lesson1B/issues"
+  },
+  "homepage": "https://github.com/nithinkzy/COMP397-Lesson1B#readme"
+}
